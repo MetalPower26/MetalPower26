@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @MetalPower26
+- 👀 I’m interested in AI programming as well as simple web development
+- 🌱 I’m currently learning competitive programming
+- 📫 How to reach me 
+  - Email : matthewa.2606@gmail.com
+  - Instagram : @matthewallan6
