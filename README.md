@@ -3,4 +3,3 @@
 - 🌱 I’m currently learning competitive programming
 - 📫 How to reach me 
   - Email : matthewa.2606@gmail.com
-  - Instagram : @matthewallan6
